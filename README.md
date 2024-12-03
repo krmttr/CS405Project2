@@ -2,6 +2,7 @@
 This repository is for project 2 of CS 405, where I worked on implementing texture mapping, basic lighting, and rendering 3D models.
 
 Submitted by: Kerem Tatari - 29208
+
 **GitHub Link:** https://github.com/krmttr/CS405Project2.git
 
 ## Tasks
