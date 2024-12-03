@@ -4,7 +4,6 @@ This repository is for project 2 of CS 405, where I worked on implementing textu
 ## Tasks
 ### Task 1: Texture Mapping
 In this task, I added textures to 3D models. I:
-- Loaded texture images.
 - Applied the textures to the models using UV coordinates.
 
 ### Task 2: Basic Lighting
